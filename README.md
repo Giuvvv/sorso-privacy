@@ -1,6 +1,6 @@
 # Sorso — Privacy Policy
 
-Privacy Policy statica multilingua per Sorso (`com.sorso.hydration`), basata sul comportamento verificato della versione 2.0.6.
+Privacy Policy statica multilingua per Sorso (`com.sorso.hydration`), basata sul comportamento della versione corrente dell'app.
 
 Lingue: Italiano, English, Français, Español, Português (Brasil), Deutsch.
 
