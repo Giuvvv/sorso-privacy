@@ -17,11 +17,10 @@ Lingue: Italiano, Français, Español, Português (Brasil), Deutsch.
 
 Query supportate: `?lang=it`, `?lang=fr`, `?lang=es`, `?lang=pt-BR`, `?lang=de`.
 
-## Da completare prima dell'uso in Google Play
-
-Nel file `index.html` resta intenzionalmente il placeholder `{{COUNTRY}}`. Sostituirlo con il paese di stabilimento corretto prima di usare l'URL nella Play Console.
+## Dati del titolare
 
 Developer: `gioviwankenobi`  
+Paese: `Italia`  
 Privacy email: `giovannilobuglio2000@gmail.com`  
 Ultimo aggiornamento: `2026-08-19`
 
