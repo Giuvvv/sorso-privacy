@@ -2,11 +2,11 @@
 
 Privacy Policy statica multilingua per Sorso (`com.sorso.hydration`), basata sul comportamento verificato della versione 2.0.6.
 
-Lingue: Italiano, Français, Español, Português (Brasil), Deutsch.
+Lingue: Italiano, English, Français, Español, Português (Brasil), Deutsch.
 
 ## File
 
-- `index.html` — policy in tutte e cinque le lingue
+- `index.html` — policy in tutte e sei le lingue
 - `styles.css` — stile Sorso, senza CDN o font remoti
 - `script.js` — selezione lingua con `?lang=` e `localStorage`
 - `.nojekyll` — disabilita l'elaborazione Jekyll
@@ -15,7 +15,7 @@ Lingue: Italiano, Français, Español, Português (Brasil), Deutsch.
 
 `https://giuvvv.github.io/sorso-privacy/`
 
-Query supportate: `?lang=it`, `?lang=fr`, `?lang=es`, `?lang=pt-BR`, `?lang=de`.
+Query supportate: `?lang=it`, `?lang=en`, `?lang=fr`, `?lang=es`, `?lang=pt-BR`, `?lang=de`.
 
 ## Dati del titolare
 
