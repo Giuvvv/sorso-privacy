@@ -1,0 +1,28 @@
+# Sorso — Privacy Policy
+
+Privacy Policy statica multilingua per Sorso (`com.sorso.hydration`), basata sul comportamento verificato della versione 2.0.6.
+
+Lingue: Italiano, Français, Español, Português (Brasil), Deutsch.
+
+## File
+
+- `index.html` — policy in tutte e cinque le lingue
+- `styles.css` — stile Sorso, senza CDN o font remoti
+- `script.js` — selezione lingua con `?lang=` e `localStorage`
+- `.nojekyll` — disabilita l'elaborazione Jekyll
+
+## URL previsto
+
+`https://giuvvv.github.io/sorso-privacy/`
+
+Query supportate: `?lang=it`, `?lang=fr`, `?lang=es`, `?lang=pt-BR`, `?lang=de`.
+
+## Da completare prima dell'uso in Google Play
+
+Nel file `index.html` resta intenzionalmente il placeholder `{{COUNTRY}}`. Sostituirlo con il paese di stabilimento corretto prima di usare l'URL nella Play Console.
+
+Developer: `gioviwankenobi`  
+Privacy email: `giovannilobuglio2000@gmail.com`  
+Ultimo aggiornamento: `2026-08-19`
+
+La pagina non usa cookie, analytics, tracking, framework, CDN o font remoti.
